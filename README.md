@@ -46,8 +46,7 @@ CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
 
 5. Start the development server:
 
-npm start
-
+npm run dev
 
 Your application should now be running on `http://localhost:3000`.
 
